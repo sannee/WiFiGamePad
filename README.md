@@ -1,4 +1,0 @@
-WiFiGamePad
-===========
-
-WiFi GamePad
